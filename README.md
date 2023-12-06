@@ -12,16 +12,16 @@ Here are some ideas to get you started
 
 Hello, I'm Sairul, and Looking for an Opportunity in the field of data analysis.
 
-I am a data analyst with 2 years of experience. I hold a degree in Computer Science, and I have been working in the field of data analysis since 2021. I recently completed a data analysis course from Webpers Limited. Which has given me the latest skills and knowledge in the data analysis industry. I also succesfully completed a data analyst internship in Data Solutions 360. where I learned professional skills and real-time client demand projects. I learned many kinds of projects sales profit analysis, customer analysis, survey data analysis, real estate project analysis, and customer churn analysis.
+I am a data analyst with 2 years of experience. I hold a degree in Computer Science, and I have been working in the field of data analysis since 2021. I recently completed a data analysis course from Webpers Limited. Which has given me the latest skills and knowledge in the data analysis industry. I also successfully completed a data analyst internship in Data Solutions 360. where I learned professional skills and real-time client demand projects. I learned many kinds of projects sales profit analysis, customer analysis, survey data analysis, real estate project analysis, and customer churn analysis.
 
 I focus on data analysis and data science that look great and work well. I am skilled in a range of programming languages and platforms including SQl, Excel Advance, Power Pivot, Power Query, Dashboard Design, Data Visualizations in Excel, Power Bi, Power Bi Advance, Power Query, DAX, Advance Dax, Time Intelligence functions in power bi, Data modeling, Data cleaning, create a report and dashboards, Python, pandas, Numpy, Matplotlib, Seaborn, python uses data Visualizations and creates a report.
 
 I enjoy working with other Data analysts to make a good report and dashboard that match the client's business Objectives.
 I am committed to keeping up with the latest industry trends and best practices and I attend professional data analysis and data science courses to improve my skills. 
 
-My goal is to become a good data analyst. and create many data analysis projects that are both visually appealing and easy to use I tack pride in exceeding clients and delivering projects on time. 
+My goal is to become a good data analyst. and create many data analysis projects that are visually appealing and easy to use I take pride in exceeding clients and delivering projects on time. 
 
-If you are looking for a data analyst with skills and experience, please feel free to get in touch with me.
+If you are looking for a data analyst with skills and experience, please feel free to contact me.
 
 
 
