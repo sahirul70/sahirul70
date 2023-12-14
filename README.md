@@ -17,11 +17,11 @@ I am a data analyst with 2 years of experience. I hold a degree in Computer Scie
 I focus on data analysis and data science that look great and work well. I am skilled in a range of programming languages and platforms including SQl, Excel Advance, Power Pivot, Power Query, Dashboard Design, Data Visualizations in Excel, Power BI, Power BI Advance, Power Query, DAX, Advance Dax, Time Intelligence functions in power bi, Data modeling, Data cleaning, create a report and dashboards, Python, pandas, Numpy, Matplotlib, Seaborn, python uses data Visualizations and creates a report.
 
 I enjoy working with other Data analysts to make a good report and dashboard that match the client's business Objectives.
-I am committed to keeping up with the latest industry trends and best practices and attend professional data analysis and data science courses to improve my skills. 
+I am committed to keeping up with the latest industry trends and best practices and attending professional data analysis and data science courses to improve my skills. 
 
 My goal is to become a good data analyst. and create many data analysis projects that are visually appealing and easy to use I take pride in exceeding clients and delivering projects on time. 
 
-If you are looking for a data analyst with skills and experience, please feel free to contact me.
+If you are looking for a data analyst with skills and experience, please contact me.
 
 
 
