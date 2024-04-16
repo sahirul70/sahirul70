@@ -1,4 +1,4 @@
-# Hello Data scientist
+# Hello Data Analyst and Data Scientist
 
 Here are some ideas to get you started
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started
 - 📫 How to reach me:...
 - 😄 Pronouns: ........
 
-Hello, I'm Sairul, and I'm Looking for an Opportunity in data analysis.
+Hello, I'm Sairul, and I'm Looking for an Opportunity in data analysis And Data Science.
 
 I am a data analyst with 2 years of experience. I hold a degree in Computer Science, and I have been working in the field of data analysis since 2021. I recently completed a data analysis course from Webpers Limited, which has given me the latest skills and knowledge in the data analysis industry. I also completed a data analyst internship in Data Solutions 360. where I learned professional skills and real-time client demand projects. I learned many kinds of projects sales profit analysis, customer analysis, survey data analysis, real estate project analysis, and customer churn analysis.
 
