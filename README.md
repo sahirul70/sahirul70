@@ -21,7 +21,7 @@ I am committed to keeping up with the latest industry trends and best practices 
 
 My goal is to become a good data analyst. and create many data analysis projects that are visually appealing and easy to use I take pride in exceeding clients and delivering projects on time. 
 
-If you are looking for a data analyst with skills and experience, please contact me.....
+If you are looking for a data analyst with skills and experience, please contact me......
 
 
 
